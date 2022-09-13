@@ -1,1 +1,1 @@
-# typescript_pr-ctica
+# typescript_práctica
